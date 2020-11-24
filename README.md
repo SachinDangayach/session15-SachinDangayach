@@ -8,7 +8,7 @@ Solution:-
 
 **session15.pynb file**
 
-https://github.com/SachinDangayach/SachinDangayach-session14-SachinDangayach/blob/master/regular_poly.py
+https://github.com/SachinDangayach/session15-SachinDangayach/blob/master/session15.ipynb
 
 
 ### For goal one, We have implemented following function-
