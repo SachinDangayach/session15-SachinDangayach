@@ -16,5 +16,5 @@ https://github.com/SachinDangayach/session15-SachinDangayach/blob/master/session
   - 2. read_ticket_lazy: Generator object which takes input as file name. Creates a named tuple type of the header of file. reads the lines for file and yields the file rows and named tuple one at a time.
   - 3. We have implemented and tested the generator object in the session15.pynb file
 
-### For gole two, We have implemented following function-
+### For goal two, We have implemented following function-
   - 1. Function get_voilations_by_car_make: Function takes make_name (example 'BMW') as input and returns the number of violations by this specific car make. We create a generator object with vehicle makes as elements. we use the collections counter object to count the violations.
